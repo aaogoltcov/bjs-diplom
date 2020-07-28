@@ -20,8 +20,6 @@ class ApiConnector {
    * Отправляет запрос на авторизацию пользователя
    *
    * @static
-   * @param {*} { username, password }
-   * @param {Function} callback-функция с ошибкой `error` в качестве первого параметра
    * (null если ошибки нет) и телом `data` в качестве второго параметра
    * @memberof ApiConnector
    */

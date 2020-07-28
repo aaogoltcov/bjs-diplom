@@ -6,10 +6,10 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
+        "RUB": 1034,
         "USD": 20,
-        "EUR": 20,
-        "NTC": 3000
+        "EUR": 20.023735773370838,
+        "NTC": 3001
       }
     },
     {
@@ -19,7 +19,7 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 19,
         "USD": 0,
         "EUR": 0,
         "NTC": 100
@@ -59,6 +59,42 @@
         "USD": 500,
         "EUR": 600,
         "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2020-07-27T21:10:29.380Z",
+      "login": "11",
+      "password": "11",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-07-27T21:19:29.395Z",
+      "login": "111",
+      "password": "111",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-07-27T21:21:24.477Z",
+      "login": "1111",
+      "password": "1111",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
